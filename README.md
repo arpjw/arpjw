@@ -4,4 +4,4 @@
 
 **currently:** im studying finance & applied math. analyst @ greentree & advantary. senior vc in residence @ lvlup ventures. 
 
-**reach me:** @aseresearch on x & somuarya [at] student.deanza.edu
+**reach me:** @aseresearch on x, linkedin, & somuarya [at] student.deanza.edu
