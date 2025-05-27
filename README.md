@@ -1,6 +1,6 @@
 ## whats up 🙋🏽‍♂️
 
-**intro:** im an 18-year-old student interested in quantitative finance, nlp, and computational cogsci.
+**intro:** im an 18-year-old student interested in quantitative finance, nlp, and computational neuroscience.
 
 **currently:** im studying finance & applied math. analyst @ verdevista partners. senior vc in residence @ lvlup ventures. 
 
