@@ -1,6 +1,6 @@
 ## whats up 🙋🏽‍♂️
 
-**intro:** im an 18-year-old student interested in quantitative finance.
+**intro:** im a 19-year-old student interested in quantitative finance.
 
 **currently:** im studying finance & applied math @ de anza college. campus partner @ perplexity.
 
