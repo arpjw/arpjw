@@ -1,9 +1,9 @@
 ## whats up 🙋🏽‍♂️
 
-**intro:** im a 19-year-old student interested in quantitative finance.
+**intro:** im a 19-year-old student interested in quant research.
 
-**currently:** ib @ kcc. im studying finance & applied math @ de anza college. 
+**currently:** ib @ kcc. finance + applied math @ de anza college. 
 
-**previously:** quantitative researcher @ stealth, private equity analyst @ verdevista.
+**previously:** stats analyst @ stealth, pe @ verdevista.
 
 **reach me:** arpjw.github.io
