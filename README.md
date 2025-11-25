@@ -2,8 +2,8 @@
 
 **intro:** im a 19-year-old student interested in quant research.
 
-**currently:** ib @ kcc. finance + applied math @ de anza college. 
+**currently:** pharma/biotech ib @ kcc. finance + applied math @ de anza college. 
 
-**previously:** stats analyst @ stealth, pe @ verdevista.
+**previously:** mortgage strats analyst @ uhf, environmental pe @ verdevista.
 
 **reach me:** arpjw.github.io
