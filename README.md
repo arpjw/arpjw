@@ -1,4 +1,4 @@
-## whats up 🙋🏽‍♂️
+## hello 👀
 
 **intro:** im a 19-year-old student interested in quant and neuro.
 
