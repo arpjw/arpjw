@@ -2,8 +2,8 @@
 
 **intro:** im a 19-year-old student interested in trading, vc, and neuro.
 
-**currently:** building monolith systematic. finance + applied math @ de anza college. this summer i will be researching at the stanford university aft lab!
+**currently:** building monolith systematic. finance + applied math @ de anza college. incoming researcher @ stanford aft!
 
-**previously:** quantitative researcher @ esplanade, pharma investment banking b @ kcc capital partners, macro research @ afterquery & limex.
+**previously:** quantitative researcher @ esplanade, pharma investment banking @ kcc capital partners, macro research @ afterquery & limex.
 
 **more + contact:** arpjw.github.io
