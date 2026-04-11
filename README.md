@@ -6,4 +6,4 @@
 
 **previously:** quantitative researcher @ esplanade, pharma ib @ kcc capital partners, macro @ afterquery & limex.
 
-**more + contact:** arpjw.github.io
+**more + contact:** aryasomu.com
