@@ -1,9 +1,5 @@
-## hi, im arya
+## whats up 👋🏽
 
-**intro:** im a 19-year-old student interested in trading, vc, and neuroscience.
+**intro:** im [arya](http://aryasomu.com/), a 19-year-old student interested in math and economics.
 
-**currently:** building monolith systematic. finance + applied math @ de anza college. incoming researcher @ stanford aft!
-
-**previously:** quantitative researcher @ esplanade, pharma ib @ kcc capital partners, macro @ afterquery & limex.
-
-**more + contact:** aryasomu.com
+**now:** building [monolith systematic](https://monolithsystematic.com/). feel free to reach out.
