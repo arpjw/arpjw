@@ -2,4 +2,4 @@
 
 **intro:** im [arya](http://aryasomu.com/), a 19-year-old student interested in math and economics.
 
-**now:** building [monolith systematic](https://monolithsystematic.com/). feel free to reach out.
+**now:** building the [monolith systematic](https://monolithsystematic.com/) ecosystem. feel free to reach out.
