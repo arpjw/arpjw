@@ -1,6 +1,6 @@
-## whats up 👋🏽 im arya, a 19-year-old math and physics student at uc berkeley.
+## whats up 👋🏽
 
-**now:** building the [monolith systematic](https://monolithsystematic.com/) ecosystem.
+**now:** i study math and physics at [uc berkeley](https://math.berkeley.edu/home) and im the founder of [monolith systematic](https://monolithsystematic.com/).
 
 **previously:** i was the head of applied science at [aletheia laboratories](https://aletheialaboratories.com/), and a quant at esplanade capital.
 
