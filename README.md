@@ -1,3 +1,3 @@
 ## Hi, I'm Arya 👋🏽
 
-I am the founder of [Monolith Systematic](https://monolithsystematic.com/). I'm also an engineer at Alexandria. More about me at [aryasomu.com](https://aryasomu.com/).
+I am a Math & CS student at UCSD. I'm building agents at Alexandria and developing rare-event algorithms at Stanford. More about me at [aryasomu.com](https://aryasomu.com/).
