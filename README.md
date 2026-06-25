@@ -1,3 +1,3 @@
 ## Hi, I'm Arya 👋🏽
 
-@ UCSD. I'm building agents at Alexandria and developing rare-event algorithms at Stanford. More about me at [aryasomu.com](https://aryasomu.com/).
+@ UCSD. I'm currently working on my startup, [Monolith Systematic](https://monolithsystematic.com/). I'm also building agents at Alexandria and developing rare-event algorithms at Stanford. Learn more about me at [aryasomu.com](https://aryasomu.com/).
