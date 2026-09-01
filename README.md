@@ -1,3 +1,3 @@
 ## Hi, I'm Arya 👋🏽
 
-I founded [Monolith Investments LP](https://monolithinvestmentslp.com) and [Laplace Research](https://laplaceresearch.org). Learn more about me at [aryasomu.com](https://aryasomu.com/).
+I founded [Laplace Research](https://laplaceresearch.org) and [Monolith Investments LP](https://monolithinvestmentslp.com). Learn more about me at [aryasomu.com](https://aryasomu.com/).
