@@ -1,3 +1,4 @@
-## Hi, I'm Arya 👋🏽
+## hello 👋🏽
 
-I founded [Laplace Research](https://laplaceresearch.org) and [Monolith Investments LP](https://monolithinvestmentslp.com). I'm also building open-source market infrastructure at [Touchstone Markets](https://touchstonemarkets.xyz). Learn more about me at [aryasomu.com](https://aryasomu.com/).
+**intro:** i'm [arya](https://aryasomu.com), a 20-year-old researcher interested in ai alignment and crypto.
+**now:** solving forecasting @ [laplace research](https://laplaceresearch.org).
