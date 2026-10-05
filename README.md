@@ -4,4 +4,4 @@
 
 **now:** building [laplace research](https://laplaceresearch.org) and researching at [georgetown](https://cs.georgetown.edu/research/areas/artificial-intelligence/)'s AI group.
 
-**prev:** qr at [esplanade capital](https://www.esplanadecapital.com/), agents at [alexandria](https://www.tryalexandria.ai/), alignment at [stanford aft](https://fintech.stanford.edu/), founded [monolith](https://monolithinvestmentslp.com/).
+**prev:** [monolith investments](https://monolithinvestmentslp.com/), [esplanade capital](https://www.esplanadecapital.com/), [alexandria](https://www.tryalexandria.ai/), [stanford aft](https://fintech.stanford.edu/).
