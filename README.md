@@ -2,4 +2,4 @@
 
 **intro:** i'm [arya](https://aryasomu.com), a 20-year-old researcher interested in ai alignment and crypto.
 
-**now:** [laplace research](https://laplaceresearch.org) & [dippi](https://dippi.fun).
+**now:** building [laplace research](https://laplaceresearch.org) & [dippi exchange](https://dippi.fun).
