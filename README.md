@@ -2,4 +2,4 @@
 
 **now:** i'm researching new things. see some of it [here](https://aryasomu.com/work/) and [here](https://aryasomu.com/projects/).
 
-**prev:** i co-founded [laplace research](https://laplaceresearch.org) with my friend [bruce](https://brucenh.com) and built [vela exchange](https://velalaboratories.com).
+**prev:** i co-founded [laplace research](https://laplaceresearch.org) and built [vela exchange](https://velalaboratories.com).
