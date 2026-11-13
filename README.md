@@ -1,5 +1,5 @@
 **intro:** i'm [arya](https://aryasomu.com), a 20-year-old researcher broadly interested in ai research & crypto.
 
-**now:** researching new things. see some of my [previous work](https://aryasomu.com/work/).
+**now:** researching new things. see some of it [here](https://aryasomu.com/work/) and [here](https://aryasomu.com/projects/).
 
-**prev:** co-founded [laplace research](https://laplaceresearch.org) with my friend [bruce](https://brucenh.com) and built [vela](https://velalaboratories.com)
+**prev:** co-founded [laplace research](https://laplaceresearch.org) with my friend [bruce](https://brucenh.com) and built [vela exchange](https://velalaboratories.com).
