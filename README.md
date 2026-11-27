@@ -1,3 +1,3 @@
-**intro:** i'm [arya](https://aryasomu.com), a 20-year-old researcher broadly interested in ai research & crypto.
+**intro:** i'm [arya](https://aryasomu.com), a 20-year-old researcher working on forecasting, probabilistic reasoning, and machine intelligence.
 
-**now:** ceo and chief scientist, [laplace research](https://laplaceresearch.org).
+**now:** co-founder and chief scientist, [laplace research](https://laplaceresearch.org).
